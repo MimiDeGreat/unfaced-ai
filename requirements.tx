@@ -1,0 +1,6 @@
+streamlit
+deepface==0.0.79
+resemblyzer==0.1.10
+soundfile
+librosa
+numpy
