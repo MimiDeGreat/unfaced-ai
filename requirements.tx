@@ -1,6 +1,9 @@
 streamlit
-deepface==0.0.79
 resemblyzer==0.1.10
 soundfile
 librosa
 numpy
+deepface==0.0.79
+tensorflow==2.11.0
+opencv-python-headless
+
